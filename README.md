@@ -8,3 +8,4 @@
 
 ## Current Active Repository
 1. [LDS](https://github.com/Ndkorr/log-documentation-system) - It's a simple program built using python that *helps* organized things on your head when you are **learning/developing** something.
+2. [HTML-MINIFIER](https://github.com/Ndkorr/html-minifier) - A simple script to reduce html file size
